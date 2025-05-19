@@ -6,7 +6,7 @@ This project implements a helmet and object detection system using the YOLOv8 mo
 
 * **Helmet Detection**: Identifies whether individuals are wearing helmets in images and videos.
 * **Real-time Processing**: Capable of processing video streams for real-time detection.
-* **Customizable**: Easily adaptable to detect other objects by retraining the model with different datasets.([GitHub][1])
+* **Customizable**: Easily adaptable to detect other objects by retraining the model with different datasets.
 
 ## Installation
 
