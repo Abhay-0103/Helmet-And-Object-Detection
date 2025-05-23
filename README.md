@@ -92,10 +92,6 @@ The project utilizes a dataset comprising images labeled for helmet detection. I
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 * [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
